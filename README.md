@@ -1,6 +1,7 @@
 # Frontend-разработчик 
 # Соц. сети 
 Телеграмм: https://t.me/gqpert
+
 Вконтакте: https://vk.com/merzhoevv
 
 # Мой стэк технологий
@@ -13,3 +14,11 @@
 <img src="https://img.shields.io/badge/json-000?style=for-the-badge&logo=json&logoColor=CB3837"/> <img src="https://img.shields.io/badge/git-000?style=for-the-badge&logo=git&logoColor=F05032"/> <img src="https://img.shields.io/badge/ajax-000?style=for-the-badge&logo=&logoColor="/> 
 
 <img src="https://img.shields.io/badge/jQuery-000?style=for-the-badge&logo=jQuery&logoColor=0769AD"/>  <img src="https://img.shields.io/badge/MySql-000?style=for-the-badge&logo=MySql&logoColor=4479A1"/> <img src="https://img.shields.io/badge/plsql-000?style=for-the-badge&logo=&logoColor="/> <img src="https://img.shields.io/badge/ESlint-000?style=for-the-badge&logo=ESlint&logoColor=4B32C3"/>
+
+# Мои ОСНОВНЫЕ проекты
+
+https://github.com/merzhoev-hm/Vue-Sneakers - Магазин кроссовок
+https://github.com/merzhoev-hm/Vue-Converter - Конвертер Валют
+https://github.com/merzhoev-hm/Vue-posts - Сайт с постами
+https://github.com/merzhoev-hm/foody - Foody сайт здорового питания
+и тд...
