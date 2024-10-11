@@ -1,4 +1,8 @@
 # Frontend-разработчик 
+# Соц. сети 
+Телеграмм: https://t.me/gqpert
+Вконтакте: https://vk.com/merzhoevv
+
 # Мой стэк технологий
 <img src="https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=E34F26"/> <img src="https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=CSS3&logoColor=1572B6"/> <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/Webpack-000?style=for-the-badge&logo=Webpack&logoColor=8DD6F9"/>
 <img src="https://img.shields.io/badge/VUEJS-000?style=for-the-badge&logo=vuetify&logoColor=4FC08D"/> 
