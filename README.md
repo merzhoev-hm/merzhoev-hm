@@ -18,7 +18,11 @@
 # Мои ОСНОВНЫЕ проекты
 
 https://github.com/merzhoev-hm/Vue-Sneakers - Магазин кроссовок
+
 https://github.com/merzhoev-hm/Vue-Converter - Конвертер Валют
+
 https://github.com/merzhoev-hm/Vue-posts - Сайт с постами
+
 https://github.com/merzhoev-hm/foody - Foody сайт здорового питания
+
 и тд...
