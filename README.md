@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/badge/SASS-000?style=for-the-badge&logo=sass&logoColor=CC6699"/> <img src="https://img.shields.io/badge/Axios-000?style=for-the-badge&logo=axios&logoColor=5A29E4"/> <img src="https://img.shields.io/badge/npm-000?style=for-the-badge&logo=npm&logoColor=CB3837"/> 
 <img src="https://img.shields.io/badge/json-000?style=for-the-badge&logo=json&logoColor=CB3837"/> <img src="https://img.shields.io/badge/git-000?style=for-the-badge&logo=git&logoColor=F05032"/> <img src="https://img.shields.io/badge/ajax-000?style=for-the-badge&logo=&logoColor="/> 
 
-<img src="https://img.shields.io/badge/jQuery-000?style=for-the-badge&logo=jQuery&logoColor=0769AD"/>  <img src="https://img.shields.io/badge/MySql-000?style=for-the-badge&logo=MySql&logoColor=4479A1"/> <img src="https://img.shields.io/badge/plsql-000?style=for-the-badge&logo=&logoColor="/> <img src="https://img.shields.io/badge/ESlint-000?style=for-the-badge&logo=ESlint&logoColor=4B32C3"/>
+ <img src="https://img.shields.io/badge/MySql-000?style=for-the-badge&logo=MySql&logoColor=4479A1"/> <img src="https://img.shields.io/badge/plsql-000?style=for-the-badge&logo=&logoColor="/> <img src="https://img.shields.io/badge/ESlint-000?style=for-the-badge&logo=ESlint&logoColor=4B32C3"/>
 
 # Мои ОСНОВНЫЕ проекты
 
