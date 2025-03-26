@@ -1,6 +1,6 @@
 # Frontend-разработчик 
 # Соц. сети 
-Телеграмм: https://t.me/gqpert
+Телеграмм: https://t.me/merzhoevhm
 
 Вконтакте: https://vk.com/merzhoevv
 
