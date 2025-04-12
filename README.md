@@ -15,7 +15,7 @@
 
  <img src="https://img.shields.io/badge/MySql-000?style=for-the-badge&logo=MySql&logoColor=4479A1"/> <img src="https://img.shields.io/badge/plsql-000?style=for-the-badge&logo=&logoColor="/> <img src="https://img.shields.io/badge/ESlint-000?style=for-the-badge&logo=ESlint&logoColor=4B32C3"/>
 
-# Мои ОСНОВНЫЕ проекты
+# Мои проекты
 
 https://github.com/merzhoev-hm/Vue-Sneakers - Магазин кроссовок
 
